@@ -1,0 +1,7 @@
+food	curry
+curry	food
+beach	waterside|scenery
+waterside	scenery
+lawn	scenery
+cloud	sky
+sky	cloud

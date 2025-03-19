@@ -1,0 +1,5 @@
+food	curry
+curry	food
+beach	waterside
+cloud	sky
+sky	cloud
